@@ -5,15 +5,15 @@
 		"descripcion": "<b>Micromédica Epsilon</b> es una empresa dedicada a la fabricación, importación y reparación de instrumental oftalmológico y óptico. <br> Posee un laboratorio electrónico-mecánico y un grupo de profesionales de la ingeniería dedicados al desarrollo y asistencia técnica de los productos comercializados.",
 		"foto": "yeoman.png",
 		"productos": [{
-			"nombre": "Optimus I",
+			"nombre": "Optimus",
 			"categoria": "Facoemulsificador",
 			"descrip": null,
-			"foto": null
+			"foto": "images/productos/Optimus-frente.jpg"
 		},{
 			"nombre": "Optimus II",
 			"categoria": "Facoemulsificador",
 			"descrip": null,
-			"foto": null
+			"foto": "images/productos/Optimus2frente.jpg"
 		}]
 	},{
 		"id": 2,
