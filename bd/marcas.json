@@ -8,7 +8,7 @@
 			"nombre": "Optimus",
 			"width": 12,
 			"categoria": "Facoemulsificador",
-			"descrip": "Es el equipo ideal para el cirujano que busca seguridad en la cirugía, ofrecida por su gran estabilidad de cámara, portabilidad, gracias a su reducido tamaño y alto rendimiento quirúrgico debido al bajo costo de su material descartable.<br><br> <a href='files/folletoptimus.jpg' target='_blank'>Link a descripción</a>",
+			"descrip": "Es el equipo ideal para el cirujano que busca seguridad en la cirugía, ofrecida por su gran estabilidad de cámara, portabilidad, gracias a su reducido tamaño y alto rendimiento quirúrgico debido al bajo costo de su material descartable.<br><br> <a href='images/folletoptimus.jpg' target='_blank'>Link a descripción</a>",
 			"fotos": ["images/productos/Optimus-frente.jpg", "images/productos/Optimus-Control.jpg", "images/productos/Optimus-herramientasdemano.jpg", "images/productos/Optimus-pedal.jpg"]
 		},{
 			"nombre": "Optimus II",
