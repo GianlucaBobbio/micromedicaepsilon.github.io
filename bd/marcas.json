@@ -293,5 +293,27 @@
 			"descrip": "<a href='files/freyperimeter.pdf' target='_blank'>Link a descripción</a><br><a href='http://www.freymedical.eu/produkt/2/AP-300' target='_blank'>Link a la página</a>",
 			"fotos": ["images/productos/AP-300.jpg"]
 		}]
+	},{
+		"id": 9,
+		"nombre": "Micro Medical Devices (MMD)",
+		"link": "http://micromedinc.com/",
+		"descripcion": "Fundado por expertos en las disciplinas médicas, de redes informáticas y de electrónica integrada, MMD es un innovador líder en la entrega de dispositivos de ultrasonido de mano para la industria de la salud. Sus productos incluyen biómetros A-Scan con capacidad de inmersión ultrasónica, paquímetros, B-Scans y dispositivos de combinación A-Scan y paquímetro.",
+		"foto": "mmd2.png",
+		"productos": [{
+			"nombre": "Mobile USB B Scan",
+			"categoria": "Ecógrafo",
+			"descrip": "<a href='files/mobile_usb.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/mobile_usb.png"]
+		},{
+			"nombre": "P2000FP",
+			"categoria": "Paquímetro",
+			"descrip": "<a href='files/p2000fp.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/p2000fp.png"]
+		},{
+			"nombre": "A2000 USB",
+			"categoria": "Regla Biométrica",
+			"descrip": "<a href='files/A2000.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/A2000.jpg"]
+		}]
 	}
 ]
