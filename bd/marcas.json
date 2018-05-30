@@ -110,28 +110,6 @@
 			"fotos": ["images/productos/pd82.jpg"]
 		}]
 	},{
-		"id": 5,
-		"nombre": "DGH",
-		"link": "http://dghtechnology.com/",
-		"descripcion": "DGH Technology Inc. es una empresa fundada en Estados unidos en 1982, dedicada exclusivamente a la medición ultrasónica de parámetros oculares. <br> Entre sus productos se pueden encontrar paquímetros, reglas biométricas y ecógrafos oculares. <br> Desde 1982 ha comercializado más de 25000 productos en más de 50 países.",
-		"foto": "dgh.png",
-		"productos": [{
-			"nombre": "DGH-6000",
-			"categoria": "Regla biométrica",
-			"descrip": "<a href='files/reglabiometricaDHG6000.pdf' target='_blank'>Link a descripción</a>",
-			"fotos": ["images/productos/reglabiometricaDHG6000.png"]
-		},{
-			"nombre": "PACHETTE 4",
-			"categoria": "Paquímetro",
-			"descrip": "<a href='files/paquimetro.pdf' target='_blank'>Link a descripción</a>",
-			"fotos": ["images/productos/paquimetro.png"]
-		},{
-			"nombre": "DGH-8000",
-			"categoria": "Ecógrafo",
-			"descrip": "<a href='files/ecografo.pdf' target='_blank'>Link a descripción</a>",
-			"fotos": ["images/productos/ecografo.jpg"]
-		}]
-	},{
 		"id": 7,
 		"nombre": "Medmont",
 		"link": "http://www.medmont.com/",
