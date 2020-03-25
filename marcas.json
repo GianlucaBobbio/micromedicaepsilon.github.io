@@ -1,0 +1,308 @@
+[
+	{
+		"id": 1,
+		"descripcion": "<b>Micromédica Epsilon</b> fue fundada en 1960 por el  Ing. Julio Manfredi. <br> En sus inicios se dedicó básicamente a dos actividades, la fabricación de equipos de radiofrecuencia para cirugía de retina y a la asistencia técnica en la distribución de los productos oftalmológicos Keeler (Inglaterra). <br> En 1985 comenzó a fabricar también equipos para criocirugía, vitréctomos y facoemulsificadores. <br> A partir de 1999 incorporó también la distribución en forma exclusiva para Argentina de distintos productos de las compañías internacionales Ocuserv Instruments (EEUU) y Opto (Brasil).<br>En este momento <b> distribuye en forma exclusiva </b> para Argentina los productos de las compañías internacionales <b> Shin Nippon (Japón), Neitz (Japón), A.R.C. LASER (Alemania), MMD Micro Medical Devices (EEUU), Frey (Polonia), Rini (Suecia), Meccanottica Mazza (Italia) y Medmont (Australia) </b>. <br> <br> En la actualidad, las personas responsables de Micromédica Epsilon son el Ing. Fernando Manfredi, UBA matrícula profesional Nº 9783 y el Ing. Ariel Manfredi, UTN matrícula profesional Nº11702, hijos del fundador. <br> La empresa tiene su sede en la Ciudad de Buenos Aires con un edificio propio de más de 300 m2 de superficie de trabajo con áreas delimitadas de desarrollo, fabricación, asistencia técnica, depósito, administración y show room. <br> Con respecto a la fabricación de equipamiento quirúrgico cuenta con equipos de alta tecnología comercializados tanto en el mercado local como en otros países. <br> Cuenta con un plantel de personal calificado de técnicos electrónicos y mecánicos y un fuerte equipo de ventas en la Ciudad de Buenos Aires y en las principales provincias de Argentina.",
+		"nombre": "Micromédica Epsilon",
+		"foto": "yeoman.png",
+		"productos": [{
+			"nombre": "Optimus",
+			"width": 12,
+			"categoria": "Facoemulsificador",
+			"descrip": "Es el equipo ideal para el cirujano que busca seguridad en la cirugía, ofrecida por su gran estabilidad de cámara, portabilidad, gracias a su reducido tamaño y alto rendimiento quirúrgico debido al bajo costo de su material descartable.<br><br> <a href='images/folletoptimus.jpg' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/Optimus-frente.jpg", "images/productos/Optimus-Control.jpg", "images/productos/Optimus-herramientasdemano.jpg", "images/productos/Optimus-pedal.jpg"]
+		},{
+			"nombre": "Optimus II",
+			"width": 12,
+			"categoria": "Facoemulsificador",
+			"descrip": "Ofrece las más avanzadas prestaciones existentes para la cirugía de cataratas de hoy, como los múltiples modos de ultrasonido, la personalización de sus parámetros, el control de la presión de irrigación mediante su columna motorizada, la doble linealidad y la multifuncionalidad del pedal que permite cambiar tanto las funciones como las memorias de trabajo. <br> Es el equipo ideal para el cirujano que busca seguridad en la cirugía, ofrecida por su gran estabilidad de cámara, portabilidad, gracias a su reducido tamaño y alto rendimiento quirúrgico debido al bajo costo de su material descartable.<br><br> <a href='files/optimus2.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/Optimus2frente.jpg","images/productos/optimus2cuerpo.jpg","images/productos/optimus2pedal.jpg"]
+		}]
+	},{
+		"id": 2,
+		"nombre": "Shin Nippon",
+		"link": "http://www.shin-nippon.jp/",
+		"descripcion": "Shin Nippon es la marca internacional de los productos fabricados en Japón por la empresa RyuSyo Industrial Co. durante más de 50 años y en la actualidad, desde 2010, por la empresa Rexxam. <br> Desde sus comienzos la empresa se ha dedicado a la fabricación de equipamiento médico oftalmológico de diagnóstico y equipamiento óptico. <br> Es una empresa reconocida en el mercado por su extensa trayectoria y la calidad inconfundible de sus productos.",
+		"foto": "shinnippon.png",
+		"productos": [{
+			"nombre": "SL-40",
+			"categoria": "Lámpara de hendidura",
+			"descrip": "<a href='files/lamparahendidura-SL40.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/lamparahendidura-SL40.jpg"]
+		},{
+			"nombre": "SL-95",
+			"categoria": "Lámpara de hendidura",
+			"descrip": "<a href='files/lamparahendidura-SL40.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/lamparahendidura-SL40.jpg"]
+		},{
+			"nombre": "SL-45DX",
+			"categoria": "Lámpara de hendidura",
+			"descrip": "<a href='files/SL-45DX.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/SL-45DX.jpg"]
+		},{
+			"nombre": "SL-102",
+			"categoria": "Lámpara de hendidura",
+			"descrip": "<a href='files/SL-102.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/SL-102.jpg"]
+		},{
+			"nombre": "SL-203",
+			"categoria": "Lámpara de hendidura",
+			"descrip": "<a href='files/SL-203.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/SL-203.jpg"]
+		},{
+			"nombre": "SL-500",
+			"categoria": "Lámpara de hendidura",
+			"descrip": "<a href='files/SL-500.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/SL-500.jpg"]
+		},{
+			"nombre": "XL-1",
+			"categoria": "Lámpara de hendidura",
+			"descrip": "<a href='files/XL-1.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/XL-1.jpg"]
+		},{
+			"nombre": "K-900",
+			"categoria": "Autorrefractor con keratómetro",
+			"descrip": "<a href='files/autorefractoqueratometro.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/autorefractoqueratometro.jpg"]
+		},{
+			"nombre": "OP-2",
+			"categoria": "Microscopio quirúrgico",
+			"descrip": "<a href='files/microscopioquirurgico-op2.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/microscopioquirurgico-op2.jpg"]
+		},{
+			"nombre": "NCT-200",
+			"categoria": "Tonómetro de no contacto",
+			"descrip": "<a href='files/tonometronocontactontc200.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/tonometronocontactontc200.jpg"]
+		},{
+			"nombre": "LM-15",
+			"categoria": "Lensómetro manual",
+			"descrip": "<a href='files/lensometromanual-lm15.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/lensometromanual-lm15.jpg"]
+		},{
+			"nombre": "DL-900",
+			"categoria": "Lensómetro digital",
+			"descrip": "<a href='files/lensometrodigital.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/lensometrodigital.jpg"]
+		},{
+			"nombre": "CT-1000",
+			"categoria": "Topógrafo corneal",
+			"descrip": "<a href='files/CT1000.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/CT1000.jpg"]
+		},{
+			"nombre": "CP-500",
+			"categoria": "Proyector de optotipos",
+			"descrip": "<a href='files/CP500.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/CP500.jpg"]
+		},{
+			"nombre": "DR-900",
+			"categoria": "Foróptero digital",
+			"descrip": "<a href='files/Foroptero900.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/Foroptero900.jpg"]
+		},{
+			"nombre": "SPM-700",
+			"categoria": "Microscopio especular",
+			"descrip": "<a href='files/SPM-700_en.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/SPM-700.jpg"]
+		},{
+			"nombre": "PD METER PD82II",
+			"categoria": "Bipupilómetro",
+			"descrip": "<a href='files/PD822.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/pd82.jpg"]
+		},{
+			"nombre": "RET-700",
+			"categoria": "Autorrefractor con keratómetro",
+			"descrip": "<a href='files/RET-700_en.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/ret700.jpg"]
+		}
+		,{
+			"nombre": "RET-700",
+			"categoria": "Topógrafo corneal",
+			"descrip": "<a href='files/RET-700_en.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/ret700.jpg"]
+		}]
+	},{
+		"id": 7,
+		"nombre": "Medmont",
+		"link": "http://www.medmont.com/",
+		"descripcion": "Medmont es una empresa australiana fundada en 1988 y dedicada a la fabricación de campímetros y topógrafos oftalmológicos. <br> Desde sus inicios se ha caracterizado por la gran precisión y facilidad de uso de sus productos.",
+		"foto": "medmont2.png",
+		"productos": [{
+			"nombre": "M-700",
+			"categoria": "Campímetro",
+			"descrip": "<a href='files/Campimetro700.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/Campimetro700.jpg"]
+		},{
+			"nombre": "E300",
+			"categoria": "Topógrafo corneal",
+			"descrip": null,
+			"fotos": ["images/productos/topografo.jpg"]
+		}]
+	},{
+		"id": 3,
+		"nombre": "ARC Laser",
+		"link": "http://www.arclaser.de/",
+		"descripcion": "A.R.C.LASER es una empresa alemana especializada en el desarrollo y producción de tecnología médica láser. <br> En sus comienzos en el año 1978, con el nombre de Meditec GmbH,  desarrollaron el primer láser ND:YAG para la cirugía de catarata secundaria marcando un hito en la historia de la oftalmología. <br> Poco después siguió el Meditec Excimer Laser para el tratamiento refractivo de los ojos y luego su sucesor el MEL80 de Carl Zeiss Meditec. <br> Hoy A.R.C. LASER ofrece una amplia gama de productos láser para oftalmología cubriendo todas las expectativas del mercado, además de ofrecer equipamiento láser para muchas otras especialidades médicas.",
+		"foto": "arc2.png",
+		"productos": [{
+			"nombre": "CLASSIC diodo pumped frequency doubled Nd:YAG laser 532 nm (green)",
+			"categoria": "CLASSIC 532 nm",
+			"descrip": "<a href='files/classic.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/classic.jpg"]
+		},{
+			"nombre": "Q-LAS PCL5 Z nd:YAG Laser",
+			"categoria": "YAG-Laser 1064 nm",
+			"descrip": "<a href='files/Yaglaser.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/Yaglaser.png"]
+		},{
+			"nombre": "FOX 810 nm",
+			"categoria": "810 nm",
+			"descrip": "<a href='files/fox.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/fox.jpg"]
+		},{
+			"nombre": "CETUS Q-switched Real laser cataract surgery",
+			"categoria": "Nano laser (phaco laser)",
+			"descrip": "<a href='files/nanolaser.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/nanolaser.jpg"]
+		},{
+			"nombre": "CITO frequency doubled Q-switch Nd:YAG Laser 532 nm",
+			"categoria": "CITO 532 nm Microchip tech",
+			"descrip": "<a href='http://www.arclaser.de/en/products/slt-laser-cito-532.html' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/cito.png"]
+		},{
+			"nombre": "ENDO 514 nm",
+			"categoria": "Argon wavelenght",
+			"descrip": null,
+			"foto": null
+		}]
+	},{
+		"id": 6,
+		"nombre": "Meccanottica Mazza",
+		"link": "http://www.meccanotticamazza.com/",
+		"descripcion": "Meccanottica Mazza es una empresa fundada en Italia en 1981, dedicada exclusivamente a la fabricación de unidades oftalmológicas. <br> Posee una enorme variedad de productos que cubren ampliamente todas las necesidades del mercado. <br> Sus productos de línea permiten la  selección de colores y el agregado de accesorios como así también la selección de distintos tipos de mesas y sillas. <br> La calidad de los productos es excelente y los diseños son de vanguardia.",
+		"foto": "meccanottica.png",
+		"productos": [{
+			"nombre": "10.090",
+			"categoria": "Unidades de refracción",
+			"descrip": "<a href='files/10090.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/10090.jpg"]
+		}]
+	},{
+		"id": 4,
+		"nombre": "Rini",
+		"link": "https://rinicompany.com/",
+		"descripcion": "Rini Ergonomics es una empresa sueca de investigación y desarrollo innovador desde mediados de 1990. Provee una amplia gama de soluciones y productos ergonómicos  de calidad, diseñados exclusivamente para el tratamiento quirúrgico ofreciendo un entorno de trabajo cómodo y productivo en lo que respecta a las sillas para cirujano, mesas quirúrgicas y unidades de transporte de pacientes.",
+		"foto": "rini.jpg",
+		"productos":[{
+			"nombre":"Carl MK2",
+			"categoria":"Silla para cirujano",
+			"descrip":"<a href='files/MK2.pdf' target='_blank'>Link a descripción</a>",
+			"fotos":["images/productos/CarlMK2.gif"]
+		},{
+			"nombre":"Carl Foot",
+			"categoria":"Silla para cirujano",
+			"descrip":"<a href='files/carl.pdf' target='_blank'>Link a descripción</a>",
+			"fotos":["images/productos/CarlFoot.gif"]
+		},{
+			"nombre":"Rieye Mk1",
+			"categoria":"Camilla quirúrgica",
+			"descrip":"<a href='files/rieye.pdf' target='_blank'>Link a descripción</a>",
+			"fotos":["images/productos/RieyeMK1.gif"]
+		},{
+			"nombre":"Rieye Mk2S",
+			"categoria":"Camilla quirúrgica",
+			"descrip":"<a href='files/MK2S.pdf' target='_blank'>Link a descripción</a>",
+			"fotos":["images/productos/MK2S.gif"]
+		}]
+	},{
+		"id": 8,
+		"nombre": "Neitz",
+		"link": "",
+		"descripcion": "Desde su fundación en 1965 Neitz ha proporcionado un desarrollo único de productos especializados para la oftalmología perfeccionados a través de los años según las expectativas profesionales del área. Actualmente cuenta con un amplio abanico de Oftalmoscopios, Retinoscopios y Oftalmoscopios Binoculares Indirectos, que son preferidos en Japón y en más de 70 países. Su orgullo es crear productos que realmente contribuyan a la medicina.",
+		"foto": "neitz.jpg",
+		"productos": [{
+			"nombre": "Halogen Ophthalmoscope BXα-13",
+			"categoria": "Oftalmoscopios",
+			"descrip": "<a href='files/oftalmoscopios.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/BX-13.jpg"]
+		},{
+			"nombre": "Halogen Ophthalmoscope BXα-13A",
+			"categoria": "Oftalmoscopios",
+			"descrip": "<a href='files/oftalmoscopios.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/BX-13A.jpg"]
+		},{
+			"nombre": "Halogen Ophthalmoscope BXα-RC",
+			"categoria": "Oftalmoscopios",
+			"descrip": "<a href='files/oftalmoscopios.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/BX-RC.jpg"]
+		},{
+			"nombre": "Streak Retinoscope RX-3",
+			"categoria": "Retinoscopios",
+			"descrip": "<a href='files/RetinoscopiosNeitz.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/RX-3.jpg"]
+		},{
+			"nombre": "Streak Retinoscope RX-3A",
+			"categoria": "Retinoscopios",
+			"descrip": "<a href='files/RetinoscopiosNeitz.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/RX-3A.jpg"]
+		},{
+			"nombre": "Streak Retinoscope RX-RC",
+			"categoria": "Retinoscopios",
+			"descrip": "<a href='files/RetinoscopiosNeitz.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/RX-RC.jpg"]
+		},{
+			"nombre": "IO-α Halogen",
+			"categoria": "OBI",
+			"descrip": "<a href='files/halogen.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/halogen.jpg"]
+		},{
+			"nombre": "IO-α LED",
+			"categoria": "OBI",
+			"descrip": "<a href='files/halogen.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/led.jpg"]
+		}]
+	},{
+		"id": 9,
+		"nombre": "Frey",
+		"link": "",
+		"descripcion": "Frey se fundó en el año 2005 como una empresa familiar para desarrollar dispositivos de diagnóstico oftálmicos y optométricos, especialmente en etapa temprana de glaucoma y enfermedades de niveles más altos de retina, entregando tecnología exclusiva y moderna.<br>Actualmente ofrecen una nueva dimensión competitiva en la industria en lo que refiere a su línea de campímetros y los clientes más exigentes pueden adquirir una tecnología mejorada y de alta calidad a un precio competitivo.",
+		"foto": "frey.jpg",
+		"productos": [{
+			"nombre": "AP-50",
+			"categoria": "Campímetro",
+			"descrip": "<a href='files/freyperimeter.pdf' target='_blank'>Link a descripción</a><br><a href='http://www.freymedical.eu/produkt/11/AP-50' target='_blank'>Link a la página</a>",
+			"fotos": ["images/productos/AP-50.jpg"]
+		},{
+			"nombre": "AP250/250BY",
+			"categoria": "Campímetro",
+			"descrip": "<a href='files/freyperimeter.pdf' target='_blank'>Link a descripción</a><br><a href='http://www.freymedical.eu/produkt/3/AP-250250BY' target='_blank'>Link a la página</a>",
+			"fotos": ["images/productos/AP-250.jpg"]
+		},{
+			"nombre": "AP-300",
+			"categoria": "Campímetro",
+			"descrip": "<a href='files/freyperimeter.pdf' target='_blank'>Link a descripción</a><br><a href='http://www.freymedical.eu/produkt/2/AP-300' target='_blank'>Link a la página</a>",
+			"fotos": ["images/productos/AP-300.jpg"]
+		}]
+	},{
+		"id": 9,
+		"nombre": "Micro Medical Devices (MMD)",
+		"link": "http://micromedinc.com/",
+		"descripcion": "Fundado por expertos en las disciplinas médicas, de redes informáticas y de electrónica integrada, MMD es un innovador líder en la entrega de dispositivos de ultrasonido de mano para la industria de la salud. Sus productos incluyen biómetros A-Scan con capacidad de inmersión ultrasónica, paquímetros, B-Scans y dispositivos de combinación A-Scan y paquímetro.",
+		"foto": "mmd2.png",
+		"productos": [{
+			"nombre": "Mobile USB B Scan",
+			"categoria": "Ecógrafo",
+			"descrip": "<a href='files/mobile_usb.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/mobile_usb.png"]
+		},{
+			"nombre": "P2000FP",
+			"categoria": "Paquímetro",
+			"descrip": "<a href='files/p2000fp.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/p2000fp.png"]
+		},{
+			"nombre": "A2000 USB",
+			"categoria": "Regla Biométrica",
+			"descrip": "<a href='files/A2000.pdf' target='_blank'>Link a descripción</a>",
+			"fotos": ["images/productos/A2000.jpg"]
+		}]
+	}
+]
